@@ -1,10 +1,9 @@
-# Hey there, I'm John - aka [Jawnchuks][website] 👋
+# Hi there, I'm John Asemota - [Jawnchuks][website] 👋
 
 ![jawn](https://user-images.githubusercontent.com/45388316/162934464-4f9c2460-79d3-4a9b-9c33-29bb510ffa29.png)
 
-[![Website](https://img.shields.io/website?label=jawnchuks.com&style=for-the-badge&url=https%3A%2F%2Fjawnchuks.com)](https://jawnchuks.com)
 
-## I'm a Full-Stack Developer, Sports Lover [ Football ⚽]!!
+## I'm a Full-Stack Developer, Lazy chef, Partial Gamer and Sports Lover [ Football ⚽]!!
 
 - 👨‍💻 Building Career In Tech
 - 📲 Interaction Design!!!
@@ -71,6 +70,9 @@
 <br />
 
 ---
+
+<br />
+<br />
 [![Jawnchuks GitHub stats](https://github-readme-stats.vercel.app/api?username=jawnchuks)](https://github.com/jawnchuks/github-readme-stats)
 
 
