@@ -73,7 +73,6 @@
 
 <br />
 <br />
-[![Jawnchuks GitHub stats](https://github-readme-stats.vercel.app/api?username=jawnchuks)](https://github.com/jawnchuks/github-readme-stats)
 
 
 [website]: https://jawnchuks.com
