@@ -1,15 +1,11 @@
 # Hi there, I'm John Asemota - [Jawnchuks][website] 👋
 
-![jawn](https://user-images.githubusercontent.com/45388316/162934464-4f9c2460-79d3-4a9b-9c33-29bb510ffa29.png)
-
 
 ## I'm a Full-Stack Developer, Lazy chef, Partial Gamer and Sports Lover [ Football ⚽]!!
 
 - 👨‍💻 Building Career In Tech
-- 📲 Interaction Design!!!
-- 🐍 I’m currently learning Python
-- 📝 Trying Contribute more on Open Source projects
-- ☕ Buy me coffee, and i'll share my secrets with you 🤣
+- 📲 Human computer interaction!!!
+- 🐍 Using Python to automate stuffs
 - 👯 Open to collaboration
 
 ### Connect with me:
