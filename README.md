@@ -1,7 +1,7 @@
 # Hi there, I'm John Asemota - [Jawnchuks][website] 👋
 
 
-## I'm a Full-Stack Developer, Lazy chef, Partial Gamer and Sports Lover [ Football ⚽]!!
+## I'm a Full-Stack Developer, and Sports Lover [ Football ⚽]!!
 
 - 👨‍💻 Building Career In Tech
 - 📲 Human computer interaction!!!
@@ -42,10 +42,6 @@
 
 <img align="left" alt="React-js" width="26px" src="https://user-images.githubusercontent.com/45388316/162949042-ce636513-09ab-486f-ab31-89cdb5a359d2.png" />
 
-<img align="left" alt="Wordpress" width="26px" src="https://user-images.githubusercontent.com/45388316/162949190-e40ce8d8-735b-4b05-8871-f038bae74395.png" />
-
-<img align="left" alt="Stackoverflow" width="26px" src="https://user-images.githubusercontent.com/45388316/162949310-c2736097-7932-48c9-84a4-2ac2b163eff5.png" />
-
 <img align="left" alt="Google" width="26px" src="https://user-images.githubusercontent.com/45388316/162949428-46ff3181-f192-4ae9-b898-8d5989d03e25.png" />
 
 <img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/45388316/162949533-0714e930-10f8-42af-b36a-a5b5e6de4d14.png" />
@@ -59,8 +55,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/45388316/162949901-db0471b2-acc7-49cb-a811-35cd026885d1.png" />
 
 <img align="left" alt="GraphQl" width="26px" src="https://user-images.githubusercontent.com/45388316/162950045-2f6bbd1b-cff6-477a-89c6-89d66f5d7957.png" />
-
-<img align="left" alt="Windows" width="26px" src="https://user-images.githubusercontent.com/45388316/162950122-0d047d13-ba5a-4ac5-81d5-d4ca6cec39e7.png" />
 
 <br />
 <br />
