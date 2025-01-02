@@ -65,7 +65,7 @@
 <br />
 
 
-[website]: https://jawnchuks.com
+[website]: https://www.jawnchuks.com.ng
 [twitter]: https://twitter.com/jawnchuks
 [instagram]: https://instagram.com/jawnchuks
 [linkedin]: https://linkedin.com/in/jawnchuks
